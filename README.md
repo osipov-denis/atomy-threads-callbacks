@@ -6,6 +6,7 @@ Pages provided:
 
 - `privacy.html`
 - `terms.html`
+- `oauth-callback.html`
 - `deauthorize.html`
 - `delete.html`
 
